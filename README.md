@@ -1,4 +1,4 @@
-# 🚀 Spring Boot CRUD - Todo List Application
+# 🚀 Spring Boot CRUD - Products Application
 
 This is a full-stack Product Management (Todo List) application developed using **Spring Boot 3/4**, **Java 17/21**, and **MySQL**. It features a complete web interface to perform CRUD (Create, Read, Update, Delete) operations.
 
